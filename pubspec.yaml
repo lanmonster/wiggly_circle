@@ -1,6 +1,6 @@
 name: wiggly_circle
 description: A custom paint widget that draws a wiggly circle.
-version: 0.0.1
+version: 1.0.0
 author: Kyle Lanmon
 
 environment:

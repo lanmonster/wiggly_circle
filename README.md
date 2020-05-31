@@ -1,4 +1,4 @@
-# wigglycircle
+# wiggly_circle
 
 A custom paint widget that draws a wiggly circle.
 

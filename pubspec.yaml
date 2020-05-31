@@ -1,0 +1,23 @@
+name: wiggly_circle
+description: A custom paint widget that draws a wiggly circle.
+version: 0.0.1
+author: Kyle Lanmon
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  equatable: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  test: any
+  mockito: ^4.1.1
+
+flutter:
+
